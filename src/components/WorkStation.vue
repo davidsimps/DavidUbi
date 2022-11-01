@@ -76,7 +76,6 @@ var myDate = new Date(__props.entryTime * 1000).getHours();
 .work-station-container {
   width: 400px;
   background-color: white;
-  ;
 }
 
 .work-station-image {
